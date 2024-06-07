@@ -5,7 +5,7 @@ function setup() {
   
   function draw() {
     stroke("blue")
-    fill("red")
+    fill("white")
     
     if(mouseIsPressed){
    rect(mouseX, mouseY, 20, 35);
